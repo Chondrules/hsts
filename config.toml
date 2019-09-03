@@ -1,4 +1,4 @@
-baseurl = "http://hesaidtheysaid.com/"
+baseurl = ""
 title = "He Said They Said"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
