@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://kind-yalow-c276f2.netlify.com/"
 title = "He Said They Said"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
@@ -78,10 +78,10 @@ paginate = 5 #frontpage pagination
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
     [params.writers."James Tierney"]
-    link = "https://lherman.tk"
-    email = "lherman.cs@gmail.com"
+    link = "http://www.happyvalleyimprov.com"
+    email = "james.tierney@gmail.com"
     bio = [
-      "James Tierney is going to push your boundaries.  Dawn Rosenbaum will put a fork in your boundaries" 
+      "James Tierney is going to push you to your boundaries.  Dawn Rosenbaum will put a fork in your boundaries." 
     ]
     facebook      = "full lukas profile url in facebook"
     twitter       = "full profile url in twitter"
