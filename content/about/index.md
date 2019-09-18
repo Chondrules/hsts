@@ -1,21 +1,36 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+date = "2016-09-17T13:00:25+05:30"
+title = "About"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+![Yea][1]
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+He Said They Said is the brainchild collaborative group of Happy Valley Improv’s James Tierney and Dawn Rosenbaum. This two-person longform group focuses on creating worlds with big characters that end up colliding in hilarious ways. It all begins with a rumor given by a member of the audience, and it quickly spirals out of control to inspire the amazing world the players create. The character’s themselves can and will be played by either person during the course of the show. 
 
-![This is me][1]
+### Dawn Rosenbaum (They/Them):
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+**Top Three Desserts of All Time**
 
-#### Education
+Cannolis, Macarons, Apple Dumplings
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+**Names of Dog Children**
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+Watson and Ham
+
+##### _When Not Doing Improv or Working I am outside in nature or cooking/baking._ #####
+
+<br>  
+  
+### James Tierney (He/His):
+
+**Top Three Desserts of All Time**
+
+Cheesecake, Fried Oreos, Coconut Cream Pie
+
+**Names of Dog Children**
+
+Penny & Dakota 
+
+##### _When Not Doing Improv or Working I am Building communities._ #####
 
 [1]: /img/about.jpg

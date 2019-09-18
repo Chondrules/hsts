@@ -23,21 +23,20 @@ paginate = 5 #frontpage pagination
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
   slogan = "Get a pronoun; Abuse it"
-  description = "Describe your website" # meta description
+  description = "Get a new flannel this year, you deserve it." # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Brant"
-  authorLink = "https://happyvalleyimprov.com/"
+  author = "HeSaidTheySaid"
+  authorLink = "https://kind-yalow-c276f2.netlify.com/"
   bio = [
-    "Brant wrote this post.<br>It's deep."
+    "I wrote this<br>It's deep."
   ]
   copyright = [
     "&copy; 2019 He Said They Said",
-    "",
-    ""
+    "what",
+    "who"
   ]
 
-
-  # Contact page
+# Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
      # proxy. The form makes a POST request to their servers to send the actual
      # email. Visitors can send up to a 1000 emails each month for free.
@@ -49,50 +48,44 @@ paginate = 5 #frontpage pagination
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "contact@hesaidtheysaid.com"
+  email = "hesaidtheysaid@gamil.com"
 
   # Nav links in the side bar
   [[menu.main]]
-  name = "Shows"
-  url = "/"
+  name = "About"
+  url = "/about/"
   weight = 1
 
   [[menu.main]]
-  name = "About"
-  url = "about/"
-  weight = 2
-
-  [[menu.main]]
   name = "Get In Touch"
-  url = "contact/"
-  weight = 3
+  url = "/contact/"
+  weight = 2
 
 # this will also be in author bio if there is no writer.
   [params.social]
-  facebook      = "full Social profile url in facebook"
-  email         = "contact@hesaidtheysaid.com"
-  twitter       = "full profile url in twitter"
-  instagram     = "full profile url in instagram"
+  facebook      = "https://www.facebook.com/hesaidtheysaidimprov"
+  email         = "hesaidtheysaid@gmail.com"
+  twitter       = "https://twitter.com/hesaid_theysaid"
+  instagram     = "https://www.instagram.com/hesaidtheysaidimprov/"
   rss           = false
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
     [params.writers."James Tierney"]
-    link = "http://www.happyvalleyimprov.com"
-    email = "james.tierney@gmail.com"
+    link = "http://www.hesaidtheysaid.com"
+    email = "hesaidtheysaid@gmail.com"
     bio = [
-      "James Tierney is going to push you to your boundaries.  Dawn Rosenbaum will put a fork in your boundaries." 
+      "James Tierney is going to push you to your boundaries.  You will enjoy it ... you have to." 
     ]
-    facebook      = "full lukas profile url in facebook"
-    twitter       = "full profile url in twitter"
-    instagram     = "full profile url in instagram"
+#    facebook      = "full lukas profile url in facebook"
+#    twitter       = "full profile url in twitter"
+#    instagram     = "full profile url in instagram"
 
-    [params.writers."Göran Svensson"]
-    link = "https://appernetic.io/"
-    email = "goran@molnsys.com"
-    bio = [
-      "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+    [params.writers."Dawn Rosenbaum"]
+    link = "http://www.hesaidtheysaid.com"
+    email = "hesaidtheysaid@gmail.com"
+    bio = [ "Dawn is going to make you laugh so hard you will pee someone elses' pants."
     ]
-    facebook      = "full Göran profile url in facebook"
-    twitter       = "full profile url in twitter"
-    instagram     = "full profile url in instagram"
+#    facebook      = "full Dawk profile url in facebook"
+#    twitter       = "full profile url in twitter"
+#    instagram     = "full profile url in instagram"

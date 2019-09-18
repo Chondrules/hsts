@@ -1,11 +1,11 @@
 +++
 showonlyimage = true
-draft = false
+draft = false 
 image = "img/IMG_9635.jpg"
 date = "2017-02-14T18:25:22+05:30"
 title = "This show was about the weather and porn"
-writer = "Brent"
-categories = [ "Shows"]
+writer = "James"
+categories = [ "Posts" ]
 weight = 1
 +++
 
