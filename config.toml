@@ -15,8 +15,8 @@ paginate = 5 #frontpage pagination
     # set to true to disable service 
     disable = false
     # set to true to meet General Data Protection Regulation (GDPR)
-    anonymizeIP = false
-    respectDoNotTrack = false
+    anonymizeIP = true
+    respectDoNotTrack = true 
     useSessionStorage = false
 
 [params]
@@ -27,13 +27,13 @@ paginate = 5 #frontpage pagination
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "HeSaidTheySaid"
   authorLink = "https://kind-yalow-c276f2.netlify.com/"
-  bio = [
-    "I wrote this<br>It's deep."
-  ]
+  #bio = [
+  #  "I wrote this<br>It's deep."
+  #]
   copyright = [
     "&copy; 2019 He Said They Said",
-    "what",
-    "who"
+    "",
+    ""
   ]
 
 # Contact page
@@ -71,7 +71,7 @@ paginate = 5 #frontpage pagination
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
-    [params.writers."James Tierney"]
+    [params.writers."James"]
     link = "http://www.hesaidtheysaid.com"
     email = "hesaidtheysaid@gmail.com"
     bio = [
@@ -81,7 +81,7 @@ paginate = 5 #frontpage pagination
 #    twitter       = "full profile url in twitter"
 #    instagram     = "full profile url in instagram"
 
-    [params.writers."Dawn Rosenbaum"]
+    [params.writers."Dawn"]
     link = "http://www.hesaidtheysaid.com"
     email = "hesaidtheysaid@gmail.com"
     bio = [ "Dawn is going to make you laugh so hard you will pee someone elses' pants."
