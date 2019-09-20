@@ -1,7 +1,7 @@
 +++
 date = "2019-02-05T19:41:01+05:30"
 title = "Can we get ice cream?"
-writer = "param.writer.Dawn"
+writer = "Dawn"
 draft = false
 image = "img/IMG_9642.jpg"
 showonlyimage = false
