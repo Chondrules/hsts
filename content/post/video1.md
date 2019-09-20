@@ -2,8 +2,11 @@
 date = "2016-09-16T19:41:01+05:30"
 title = "Monday Show!"
 draft = false
-showonlyimage = true 
+showonlyimage = false 
 categories = [ "Videos" ]
+weight = 10
+author = "Dawn"
+image = "img/video1_preview.jpg"
 +++
 
 <center><b><h3>Video of our show from Monday September 16th!</h3></b></center>

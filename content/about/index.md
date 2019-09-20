@@ -1,19 +1,21 @@
 +++
-date = "2016-09-17T13:00:25+05:30"
-title = "About"
+date = "2019-09-16"
+title = "About Us"
+author = "He Said They Said"
 +++
 
 ![Yea][1]
 
-He Said They Said is the brainchild collaborative group of Happy Valley Improv’s James Tierney and Dawn Rosenbaum. This two-person longform group focuses on creating worlds with big characters that end up colliding in hilarious ways. It all begins with a rumor given by a member of the audience, and it quickly spirals out of control to inspire the amazing world the players create. The character’s themselves can and will be played by either person during the course of the show. 
+##### He Said They Said is the brainchild collaborative group of Happy Valley Improv’s **James Tierney** and **Dawn Rosenbaum**. This two-person longform group focuses on creating worlds with big characters that end up colliding in hilarious ways. It all begins with a rumor given by a member of the audience, and it quickly spirals out of control to inspire the amazing world the players create. The character’s themselves can and will be played by either person during the course of the show. 
 
-### Dawn Rosenbaum (They/Them):
-
-**Top Three Desserts of All Time**
+<br>
+### Dawn Rosenbaum (They/Them)
+<p>
+#### **Top Three Desserts of All Time**
 
 Cannolis, Macarons, Apple Dumplings
 
-**Names of Dog Children**
+#### **Names of Dog Children**
 
 Watson and Ham
 
@@ -23,11 +25,12 @@ Watson and Ham
   
 ### James Tierney (He/His):
 
-**Top Three Desserts of All Time**
+<p>
+#### **Top Three Desserts of All Time**
 
 Cheesecake, Fried Oreos, Coconut Cream Pie
 
-**Names of Dog Children**
+#### **Names of Dog Children**
 
 Penny & Dakota 
 
